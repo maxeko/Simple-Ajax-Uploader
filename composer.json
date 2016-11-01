@@ -1,7 +1,7 @@
 {
     "name": "lpology/simple-ajax-uploader",
     "description": "Javascript file upload plugin with progress bar support. Works in all major browsers, including IE7+, Chrome, Firefox, Safari, and Opera. No dependencies - use it with or without jQuery.",
-    "type": "Javascript plugin",
+    "type": "js-plugin",
     "license": "MIT",
     "authors": [
         {
